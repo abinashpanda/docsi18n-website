@@ -14,8 +14,7 @@ const IndexPage = () => (
             <span className="text-teal-500">Scale</span>
           </h1>
           <div className="text-base leading-8 text-gray-600">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tempus
-            blandit dolor, ac efficitur justo lobortis nec.
+            Unleash the power of NLP!
           </div>
           <svg
             className="absolute top-0 right-0 z-10 w-20 h-full text-gray-900 transform translate-x-full"
@@ -39,7 +38,7 @@ const IndexPage = () => (
           Our <span className="text-teal-500">Products</span>
         </div>
         <div className="text-base text-center text-gray-600">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          We want to make it easier for our customer to use the recent progress in NLP research and take it to production to improve efficiencies across the board. We are releasing a few products as a demo, and would love to chat about developing more custom solutions for you.
         </div>
       </div>
       <div className="flex items-center max-w-5xl mx-auto mb-32">
@@ -68,10 +67,10 @@ const IndexPage = () => (
             <div className="text-3xl font-bold text-teal-500">sansa</div>
           </div>
           <div className="mb-8 text-sm leading-7 text-gray-600">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tempus
-            blandit dolor, ac efficitur justo lobortis nec. Lorem ipsum dolor
-            sit amet, consectetur adipiscing elit. Cras tempus blandit dolor, ac
-            efficitur justo lobortis nec.
+            Sansa is our news summarizing app where we use state of the art deep learning models, 
+            and we expose it as a chrome extension which automatically adds the summary below
+            the headline. We also added caching so any summary is sent back almost real time 
+            to customers if the article has been processed before, in which case it just a few seconds.
           </div>
           <a
             href="https://chrome.google.com/webstore/detail/sansa/jkmloofbfodpjejpmoebpbcagidckagj?ref=website"
@@ -113,10 +112,11 @@ const IndexPage = () => (
             </div>
           </div>
           <div className="text-sm leading-7 text-gray-600">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tempus
-            blandit dolor, ac efficitur justo lobortis nec. Lorem ipsum dolor
-            sit amet, consectetur adipiscing elit. Cras tempus blandit dolor, ac
-            efficitur justo lobortis nec.
+            We build tools to help you leverage the power of language models in augmenting you and your employees 
+            in mundane tasks. We are initially focusing on creating custom autocomplete models for a companies
+            customer service representatives. Have fun with our demo where we help you compose a tweet like an Apple customer
+            service rep. We are actively working to integrate it with our customers support platform to increase
+            the efficiency of their reps.
           </div>
         </div>
         <div className="relative w-1/2 pl-8">
